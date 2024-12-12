@@ -16,6 +16,7 @@
   <!-- OptanonConsentNoticeStart -->
 <script
   src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js"
+
   data-document-language="true"
   type="text/javascript"
   charset="UTF-8"
